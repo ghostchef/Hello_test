@@ -2,3 +2,5 @@ this is some new lines of new branch
 
 Hi, I am the third branch, the second branch is missing 
 hope he can back, BTW, I am line four
+
+Hi, I was line 2, but now I am line 6, I am back
